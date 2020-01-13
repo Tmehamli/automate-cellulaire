@@ -18,4 +18,4 @@ La percolation est un processus physique critique qui décrit pour un système, 
 **Conditions:**
 Pourcentage réalisé sur 5 échantillons de tailles et de valeurs de densité(percolation) différentes.
 
-![](https://github.com/Tmehamli/automate-cellulaire/blob/master/2020-01-13%2010:41:13.479155.jpg)
+![](https://github.com/Tmehamli/automate-cellulaire/blob/master/2020-01-13%2010:53:41.892011.jpg)
