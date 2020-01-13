@@ -12,3 +12,4 @@
 **Percolation:**
 La percolation est un processus physique critique qui décrit pour un système, une transition d’un état vers un autre (wikipedia).
 
+![](Gif-2020-34-13-10-34-53.gif)
